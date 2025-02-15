@@ -44,7 +44,7 @@
 }
 
 .home__subtitle::before {
-  content: "";
+  content: '';
   position: absolute;
   width: 70px;
   height: 1px;
@@ -59,7 +59,7 @@
 }
 
 .home__img {
-  background: url(../../assets/hehe.jpg);
+  background: url(../../assets/meo.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
